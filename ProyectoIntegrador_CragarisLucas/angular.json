@@ -27,11 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "ProyectoIntegrador_CragarisLucas/node_modules/bootstrap/dist/css/bootstrap.css",
-              "src/styles.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "ProyectoIntegrador_CragarisLucas/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ]
           },
           "configurations": {
@@ -97,7 +96,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/font-awesome/css/font-awesome.css"
             ],
             "scripts": []
           }
